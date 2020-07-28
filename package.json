@@ -1,1 +1,23 @@
-"publishConfig": { "registry": "https://npm.pkg.github.com/" }
+{
+  "name": "react-native-example",
+  "version": "1.0.0",
+  "description": "React Native Example Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halilhanbadem/react-native-example.git"
+  },
+  "keywords": [],
+  "author": "Halil Han BADEM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/halilhanbadem/react-native-example/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@halilhanbadem"
+  },
+  "homepage": "https://github.com/halilhanbadem/react-native-example#readme"
+}
